@@ -1,13 +1,12 @@
 
 <h1 align="center">Hi , I'm Harry Gao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr/>
 <h4 align="center">I'm a Computer Science + Philosophy-Neuroscience-Psychology Student at Washington University in St. Louis (I know, it's a mouthful). I love learning new things, deep conversations, and the Oxford comma. One of my favorite things to do is throwing myself headfirst into a challenge and not looking up until I've solved it.</h4>
 <br>
 
 ## Some Cool Things I Did Recently
 
 ### 👉 MRI Reconstruction
-<h5>For my first project as part of the Computational Imaging Group, I implemented a Denoising Neural Network that is trained to remove noise from an MRI scan. It turned out pretty well:</h5>
+<h4>For my first project as part of the Computational Imaging Group, I implemented a Denoising Neural Network that is trained to remove noise from an MRI scan. It turned out pretty well:</h4>
 
 <img src="Figure-zoom.png">
 
