@@ -4,6 +4,15 @@
 <h4 align="center">I'm a Computer Science + Philosophy-Neuroscience-Psychology Student at Washington University in St. Louis (I know, it's a mouthful). I love learning new things, deep conversations, and the Oxford comma. One of my favorite things to do is throwing myself headfirst into a challenge and not looking up until I've solved it.</h4>
 <br>
 
+## Some Cool Things I Did Recently
+
+### 👉 MRI Reconstruction
+<h5>For my first project as part of the Computational Imaging Group, I implemented a Denoising Neural Network that is trained to remove noise from an MRI scan. It turned out pretty well:</h5>
+
+<img src="Figure-zoom.png">
+
+<a href="https://docs.google.com/presentation/d/13tSFHIfY0tZufQ3hkjR6qPtNe-KmYleq68IF2gHfs9o/edit?usp=sharing">Full Presentation</a>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
