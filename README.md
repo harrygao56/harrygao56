@@ -31,6 +31,8 @@
 
 ### 👉 Web Development
 <p align="left"> 
+  &emsp;
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">Flask</a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank">HTML</a>   
   &emsp;
@@ -41,6 +43,8 @@
   <a href="https://www.mysql.com/" target="_blank">MySQL</a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank">React</a>
+  &emsp;
+  <a href="https://www.php.net/" target="_blank">PHP</a>
 </p>
 
  ### 👉 Software & Tools
