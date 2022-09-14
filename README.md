@@ -65,6 +65,7 @@
   &emsp;
     <a href="https://numpy.org/">NumPy</a>
   &emsp;
+  <a href="https://www.mysql.com/">SQL</a>
 </p>
 
 <hr/>
