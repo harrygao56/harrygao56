@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi , I'm Harry Gao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">I'm majoring in Computer Science + Math with a minor in Psychology at Washington University in St. Louis. I love learning new things, deep conversations, and the Oxford comma. One of my favorite things to do is throwing myself headfirst into a challenge and not looking up until I've solved it.</h4>
+<h1 align="center">Hi, I'm Harry Gao. Welcome to my GitHub. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h4 align="center">I'm majoring in Computer Science + Math with a minor in Psychology at Washington University in St. Louis. I'm passionate about machine learning for good and learning about and applying state-of-the-art methods and techniques. My GitHub profile is a glimpse into the growth I've had through my academic journey, from creating simple games to building full-stack websites with deployed ML models. I'm looking forward to expanding my knowledge and experience!</h4>
 <br>
 
 ## Some Cool Things I Did Recently
