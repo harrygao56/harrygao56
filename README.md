@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Harry Gao. Welcome to my GitHub. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">I'm majoring in Computer Science + Math with a minor in Psychology at Washington University in St. Louis. I'm passionate about machine learning for good and learning about cutting-edge technologies. My GitHub profile is a glimpse into my growth through my academic journey, from creating simple games to building full-stack websites with deployed ML models. I'm looking forward to expanding my knowledge and experience!</h4>
 <br>
@@ -19,8 +18,3 @@
 <img src="Figure-zoom.png" width=70%>
 
 <a href="https://github.com/harrygao56/MRI-Reconstruction-DnCNN">Repo</a>
-
-<hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 3/29/2022
