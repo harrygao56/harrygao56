@@ -6,7 +6,9 @@
 
 ### 👉 speechEasy - AI speech preparation tool
 
-<h4>I worked with 3 friends on this project as our submission to Hack WashU.</br>Whenever I'm practicing a speech or presentation, </h4>
+<h4>I worked with 3 friends on this project as our submission to Hack WashU, which placed first overall.</h4>
+
+<h4>SpeechEasy is an AI-powered speech and presentation preparation tool. It uses real-time speech recognition to give you live guidance, letting you know if you are going off-topic and helping you keep within your set time restraints. Additionally, SpeechEasy transcribes your speeches and analyzes them to give you feedback on how you can improve in the future. With technologies such as Flask, React, GPT, AssemblyAI, and Express we aim to empower students and professionals to give precise and polished presentations.</h4>
 
 https://www.loom.com/share/0e3ee85666c4429099261caa756dc27f?sid=1e3614a0-a886-4ae4-ac79-462f5df0ebaf
 
