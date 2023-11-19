@@ -4,6 +4,14 @@
 
 ## Some Cool Things I've Done Recently
 
+### 👉 speechEasy - AI speech preparation tool
+
+<h4>I worked with 3 friends on this project as our submission to Hack WashU.</br>Whenever I'm practicing a speech or presentation, </h4>
+
+<video src="https://www.loom.com/share/0e3ee85666c4429099261caa756dc27f?sid=1e3614a0-a886-4ae4-ac79-462f5df0ebaf" width=70%>
+
+<a href="https://github.com/harrygao56/speechEasy">Repo</a>
+
 ### 👉 Monet Painting Generator with CycleGAN
 
 <h4>To learn more about generative models and to learn how to deploy models, I created and trained a CycleGAN model to translate photos into Monet paintings. The data was obtained from <a href="https://www.kaggle.com/competitions/gan-getting-started">this</a> Kaggle competition, where I also submitted the final model.</a></h4>
