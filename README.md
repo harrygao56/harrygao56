@@ -8,7 +8,7 @@
 
 <h4>I worked with 3 friends on this project as our submission to Hack WashU.</br>Whenever I'm practicing a speech or presentation, </h4>
 
-<video src="https://www.loom.com/share/0e3ee85666c4429099261caa756dc27f?sid=1e3614a0-a886-4ae4-ac79-462f5df0ebaf" width=70%>
+https://www.loom.com/share/0e3ee85666c4429099261caa756dc27f?sid=1e3614a0-a886-4ae4-ac79-462f5df0ebaf
 
 <a href="https://github.com/harrygao56/speechEasy">Repo</a>
 
